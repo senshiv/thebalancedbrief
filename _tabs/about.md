@@ -45,7 +45,7 @@ Explore my thoughts on leadership, agile practices, and personal growth:
 
 - 📧 **Email**: [senshiv@gmail.com](mailto:senshiv@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/shivanisen12](https://linkedin.com/in/shivanisen12)  
-- 🐙 **GitHub**: [github.com/senshiv](https://github.com/shivanisen12)
+- 🐙 **GitHub**: [github.com/senshiv](https://github.com/senshiv)
 
 ---
 
