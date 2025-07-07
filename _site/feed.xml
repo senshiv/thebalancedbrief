@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://senshiv.github.io/thebalancedbrief/</id>
   <title>Shivani Sen</title>
   <subtitle>My DevOps/Engineering blog and personal site.</subtitle>
-  <updated>2025-07-07T15:30:08+05:30</updated>
+  <updated>2025-07-07T16:36:34+05:30</updated>
   <author>
     <name>your_full_name</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://senshiv.github.io/thebalancedbrief/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://senshiv.github.io/thebalancedbrief/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://senshiv.github.io/thebalancedbrief/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/thebalancedbrief/assets/img/favicons/favicon.ico</icon>
+  <logo>/thebalancedbrief/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Managing Upwards: Handling Conflict with a More Experienced Team Member</title>
-    <link href="http://localhost:4000/posts/Managing-upwards/" rel="alternate" type="text/html" title="Managing Upwards: Handling Conflict with a More Experienced Team Member" />
+    <link href="https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/" rel="alternate" type="text/html" title="Managing Upwards: Handling Conflict with a More Experienced Team Member" />
     <published>2025-07-02T09:00:00+05:30</published>
   
     <updated>2025-07-02T09:00:00+05:30</updated>
   
-    <id>http://localhost:4000/posts/Managing-upwards/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Managing-upwards/" />
+    <id>https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies</title>
-    <link href="http://localhost:4000/posts/flexible-scrum-ceremonies/" rel="alternate" type="text/html" title="Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies" />
+    <link href="https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/" rel="alternate" type="text/html" title="Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies" />
     <published>2025-07-01T10:00:00+05:30</published>
   
     <updated>2025-07-01T10:00:00+05:30</updated>
   
-    <id>http://localhost:4000/posts/flexible-scrum-ceremonies/</id>
-    <content type="text/html" src="http://localhost:4000/posts/flexible-scrum-ceremonies/" />
+    <id>https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>What Gardening Taught Me About Agile and Project Success</title>
-    <link href="http://localhost:4000/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" rel="alternate" type="text/html" title="What Gardening Taught Me About Agile and Project Success" />
+    <link href="https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" rel="alternate" type="text/html" title="What Gardening Taught Me About Agile and Project Success" />
     <published>2025-06-24T09:00:00+05:30</published>
   
     <updated>2025-06-24T09:00:00+05:30</updated>
   
-    <id>http://localhost:4000/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/</id>
-    <content type="text/html" src="http://localhost:4000/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" />
+    <id>https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" />
     <author>
       <name>your_full_name</name>
     </author>
