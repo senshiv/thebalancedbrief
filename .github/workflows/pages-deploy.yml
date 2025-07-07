@@ -3,7 +3,7 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main   # Change to your default branch if it's not `main`
+      - main  # or 'master' if that's your default branch
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1  # Change this if you're using a different Ruby version
+          ruby-version: 3.1  # You can adjust based on your Gemfile
 
       - name: Install dependencies
         run: |
@@ -24,7 +24,7 @@ jobs:
           bundle config set --local path 'vendor/bundle'
           bundle install
 
-      - name: Build site with Jekyll
+      - name: Build site
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
@@ -32,6 +32,3 @@ jobs:
         with:
           personal_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./_site
-
-          
-
