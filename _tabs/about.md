@@ -37,7 +37,7 @@ Available on [Amazon India](https://www.amazon.in/dp/9369545085)
 ## 🖋 Blogs
 
 Explore my thoughts on leadership, agile practices, and personal growth:  
-<p>Check out my <a href="/blog/">blog page</a>.</p>
+<p>Check out my <a href="/blogs/">blog page</a>.</p>
 
 ---
 
