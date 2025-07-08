@@ -23,7 +23,7 @@ I believe in **strategic alignment, clear communication**, and **empowerment**. 
 ## 🖋 Blogs
 
 Explore my thoughts on leadership, agile practices, and personal growth:  
-Check out my [blog page](/blogs/)
+Check out my [blog page](/tabs/blogs/)
 
 ---
 
