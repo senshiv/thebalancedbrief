@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://senshiv.github.io/thebalancedbrief/</id>
+  <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/</id>
   <title>Shivani Sen</title>
   <subtitle>My DevOps/Engineering blog and personal site.</subtitle>
-  <updated>2025-07-08T14:00:37+00:00</updated>
+  <updated>2025-07-08T14:03:11+00:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>https://senshiv.github.io/thebalancedbrief/</uri>
+    <uri>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://senshiv.github.io/thebalancedbrief/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://senshiv.github.io/thebalancedbrief/"/>
+    href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 your_full_name </rights>
   <icon>/thebalancedbrief/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Agile and Leadership Certifications: Choosing the Right Path</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/posts/Agile-and-Leadership-Certifications/" rel="alternate" type="text/html" title="Agile and Leadership Certifications: Choosing the Right Path" />
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Agile-and-Leadership-Certifications/" rel="alternate" type="text/html" title="Agile and Leadership Certifications: Choosing the Right Path" />
     <published>2025-07-07T03:30:00+00:00</published>
   
     <updated>2025-07-07T03:30:00+00:00</updated>
   
-    <id>https://senshiv.github.io/thebalancedbrief/posts/Agile-and-Leadership-Certifications/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/Agile-and-Leadership-Certifications/" />
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Agile-and-Leadership-Certifications/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Agile-and-Leadership-Certifications/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>The Scrum Master</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/posts/scrum-master/" rel="alternate" type="text/html" title="The Scrum Master" />
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/scrum-master/" rel="alternate" type="text/html" title="The Scrum Master" />
     <published>2025-07-07T03:30:00+00:00</published>
   
     <updated>2025-07-07T03:30:00+00:00</updated>
   
-    <id>https://senshiv.github.io/thebalancedbrief/posts/scrum-master/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/scrum-master/" />
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/scrum-master/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/scrum-master/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>Managing Upwards: Handling Conflict with a More Experienced Team Member</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/" rel="alternate" type="text/html" title="Managing Upwards: Handling Conflict with a More Experienced Team Member" />
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Managing-upwards/" rel="alternate" type="text/html" title="Managing Upwards: Handling Conflict with a More Experienced Team Member" />
     <published>2025-07-02T03:30:00+00:00</published>
   
     <updated>2025-07-02T03:30:00+00:00</updated>
   
-    <id>https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/Managing-upwards/" />
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Managing-upwards/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/Managing-upwards/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -93,13 +93,13 @@
   
   <entry>
     <title>Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/" rel="alternate" type="text/html" title="Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies" />
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/flexible-scrum-ceremonies/" rel="alternate" type="text/html" title="Scrum Without the Clock: Flexible Timeboxes in Agile Ceremonies" />
     <published>2025-07-01T04:30:00+00:00</published>
   
     <updated>2025-07-01T04:30:00+00:00</updated>
   
-    <id>https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/flexible-scrum-ceremonies/" />
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/flexible-scrum-ceremonies/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/flexible-scrum-ceremonies/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -117,13 +117,13 @@
   
   <entry>
     <title>What Gardening Taught Me About Agile and Project Success</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" rel="alternate" type="text/html" title="What Gardening Taught Me About Agile and Project Success" />
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" rel="alternate" type="text/html" title="What Gardening Taught Me About Agile and Project Success" />
     <published>2025-06-24T03:30:00+00:00</published>
   
     <updated>2025-06-24T03:30:00+00:00</updated>
   
-    <id>https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" />
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" />
     <author>
       <name>your_full_name</name>
     </author>

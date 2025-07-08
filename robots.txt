@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://senshiv.github.io/thebalancedbrief/sitemap.xml
+Sitemap: https://senshiv.github.io/thebalancedbrief/thebalancedbrief/sitemap.xml
