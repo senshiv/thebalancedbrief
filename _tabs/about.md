@@ -49,7 +49,7 @@ Check out my [blog page](/thebalancedbrief/blogs/)
 ---
 ## 📚 Recent Publication
 
-<p align="center">
+<p align="left">
   <a href="https://www.amazon.in/dp/9369545085" target="_blank">
     <img src="/assets/img/book.png" alt="अनकहे लफ़्ज़ Book Cover" width="250" style="box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
   </a>
