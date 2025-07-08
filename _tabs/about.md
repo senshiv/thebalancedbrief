@@ -20,24 +20,10 @@ I believe in **strategic alignment, clear communication**, and **empowerment**. 
 
 ---
 
-## 📚 Recent Publication
-
-<p align="center">
-  <a href="https://www.amazon.in/dp/9369545085" target="_blank">
-    <img src="/assets/img/book.png" alt="अनकहे लफ़्ज़ Book Cover" width="250" style="box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-  </a>
-</p>
-
-**अनकहे लफ़्ज़ (Ankahe Lafz)** — a Hindi poetry collection from the heart.
-
-Available on [Amazon India](https://www.amazon.in/dp/9369545085)
-
----
-
 ## 🖋 Blogs
 
 Explore my thoughts on leadership, agile practices, and personal growth:  
-<p>Check out my <a href="/blogs/">blog page</a>.</p>
+Check out my [blog page](/blogs/)
 
 ---
 
@@ -59,3 +45,18 @@ Explore my thoughts on leadership, agile practices, and personal growth:
 **Collaboration & Dev Tools**  
 - Trello • GitHub • SharePoint • Monday.com  
 - JIRA • MS Teams • Slack
+
+---
+## 📚 Recent Publication
+
+<p align="center">
+  <a href="https://www.amazon.in/dp/9369545085" target="_blank">
+    <img src="/assets/img/book.png" alt="अनकहे लफ़्ज़ Book Cover" width="250" style="box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
+**अनकहे लफ़्ज़ (Ankahe Lafz)** — a Hindi poetry collection from the heart.
+
+Available on [Amazon India](https://www.amazon.in/dp/9369545085)
+
+---
