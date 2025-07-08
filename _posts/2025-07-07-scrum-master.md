@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Scrum Master"
-date: 2025-07-02 09:00:00 +0530
+date: 2025-07-07 09:00:00 +0530
 categories: blog
 tags: [leadership, conflict-management, team-dynamics, self-awareness]
 ---
