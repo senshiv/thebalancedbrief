@@ -4,7 +4,7 @@
   <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/</id>
   <title>Shivani Sen</title>
   <subtitle>My DevOps/Engineering blog and personal site.</subtitle>
-  <updated>2025-07-09T09:26:25+00:00</updated>
+  <updated>2025-07-16T06:30:36+00:00</updated>
   <author>
     <name>Shivani Sen</name>
     <uri>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/</uri>
@@ -17,6 +17,30 @@
   <icon>/thebalancedbrief/assets/img/favicons/favicon.ico</icon>
   <logo>/thebalancedbrief/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>How AI is Changing Project Management — Today, Not Tomorrow</title>
+    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/ai-in-project-management/" rel="alternate" type="text/html" title="How AI is Changing Project Management — Today, Not Tomorrow" />
+    <published>2025-07-16T00:00:00+00:00</published>
+  
+    <updated>2025-07-16T00:00:00+00:00</updated>
+  
+    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/ai-in-project-management/</id>
+    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/ai-in-project-management/" />
+    <author>
+      <name>Man</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+  
+
+  <summary>How AI is Changing Project Management — Today, Not Tomorrow    Introduction  AI is no longer just a buzzword or a futuristic concept. It’s already reshaping how projects are planned, executed, and delivered. Whether you’re a project manager in tech, construction, or consulting, ignoring AI today means falling behind tomorrow.  Let’s break down how AI is being used right now in the project manag...</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>In many organizations today, Scrum is adopted as the go-to Agile framework. However, the timeboxed nature of Scrum ceremonies is often treated as a recommendation rather than a rule. Teams still conduct sprint planning, reviews, and retrospectives — but not within the strict durations suggested in the Scrum Guide.  Is this a deviation or a pragmatic adaptation? Let’s explore the advantages and ...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>What Gardening Taught Me About Agile and Project Success</title>
-    <link href="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" rel="alternate" type="text/html" title="What Gardening Taught Me About Agile and Project Success" />
-    <published>2025-06-24T03:30:00+00:00</published>
-  
-    <updated>2025-06-24T03:30:00+00:00</updated>
-  
-    <id>https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/</id>
-    <content type="text/html" src="https://senshiv.github.io/thebalancedbrief/thebalancedbrief/posts/What-Gardening-Taught-Me-About-Agile-and-Project-Success/" />
-    <author>
-      <name>Shivani Sen</name>
-    </author>
-
-  
-    
-    <category term="blog" />
-    
-  
-
-  <summary>Gardening and Agile might seem like worlds apart — one rooted in soil, the other in sprints. But tending to a small garden this summer unexpectedly offered me valuable lessons in project management, iteration, and resilience.  1. You Can’t Plan Everything Up Front  Just like in Agile, no matter how much you plan your garden layout, unexpected variables show up: too much rain, pest attacks, poor...</summary>
 
   </entry>
 
