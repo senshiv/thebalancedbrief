@@ -92,6 +92,4 @@ The best project managers in 2025 won’t be the ones who resist AI — but the 
 
 ---
 
-### Suggested Visual
-
 ![AI Project Forecast Dashboard](/assets/img/AIprojectforecast.png))
